@@ -26,8 +26,9 @@ namespace namor
         {
             this.btnNao.Visible = false;
             this.btnNao1.Visible = true;
-            
-            
+            this.btnSim.Visible = false;
+
+
         }
 
         private void btnNao2_Click(object sender, EventArgs e)
